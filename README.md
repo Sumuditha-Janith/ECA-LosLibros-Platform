@@ -47,3 +47,13 @@ mvn clean package -DskipTests
 # Start all platform components with PM2
 pm2 start ecosystem.config.js
 ```
+
+---
+
+## 👤 Student Information
+
+- **Student Name:** E. Sumuditha Janith
+- **Student Number:** 241711016
+- **GCP Project ID:** eca-gdse-71-loslibros
+- **Slack Handle:** https://ijse-eca-hdse-71-72.slack.com/team/U0BF55V8V0W
+
